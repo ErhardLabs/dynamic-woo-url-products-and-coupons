@@ -10,6 +10,8 @@ License: GPLv2 or later
 Text Domain: woo-url-coupons
 */
 
+// MUST CREATE A PAGE WITH THE SHORTCODE INSIDE OF IT
+
 // EXAMPLE URL: https://graysonerhard.com/promo/?pid=1346&code=ge-test-coupon
 
 function ged_woo_url_coupons() {
